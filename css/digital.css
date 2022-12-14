@@ -1,0 +1,35 @@
+@media (min-width: 992px) {
+  .height-a {
+    height: 340px;
+  }
+  .height-b {
+    height: 360px;
+  }
+  .height-c {
+    height: 716px;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.p-margin {
+  margin-bottom: 0px;
+}
+.border-dot {
+  border-bottom: aquamarine dotted 2px;
+}
+.number {
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  background-color: rgb(158, 12, 158);
+  border: rgb(72, 72, 72) solid 1px;
+  border-radius: 50%;
+}
+i {
+  transform: scale(1.5);
+}

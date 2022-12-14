@@ -1,0 +1,17 @@
+@media (max-width: 991.98px) {
+  .avatar {
+    display: none;
+  }
+  .space {
+    padding: 0;
+  }
+  #tablet-screen {
+    display: none;
+  }
+  #personal-info {
+    padding: 36px;
+  }
+  #target {
+    padding: 36px;
+  }
+}
